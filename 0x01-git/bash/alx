@@ -1,5 +1,3 @@
 echo
 #!/bin/bash
-echo "School"
-
-
+echo "ALX Shool"
